@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------------------
+Building a Node.js app (as a JavaScript noob) 
+https://www.youtube.com/watch?v=wYALykLb5oY
+https://github.com/thecodercoder/dinosaur-generator
+
+https://www.youtube.com/results?search_query=simple+node.js++express.js+exercises
+https://www.google.com/search?q=simple+node.js+and+express.js+projects+exercises
+
+Dino Ipsum - https://dinoipsum.com/
+Google API - https://rapidapi.com/neoscrap-net/api/google-search72
+Bing Image search https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/bing-image-search1/?utm_source=youtube.com%2FTheCoderCoder&utm_medium=referral&utm_campaign=DevRel
+
+https://rapidapi.com/kaushalsharma880-GAglnDIvTy/api/programming-memes-images
+https://rapidapi.com/search/images Page3
+
+Video: 9.11
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+

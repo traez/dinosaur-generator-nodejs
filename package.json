@@ -1,0 +1,16 @@
+{
+  "name": "dinosaur-generator-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "textapp.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Trae Zeeofor",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.2"
+  }
+}
