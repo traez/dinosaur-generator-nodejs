@@ -1,4 +1,5 @@
 console.log("scripts.js loaded");
+const baseURL = 'https://dinosaur-generator-nodejs-traez.vercel.app';
 
 document.querySelector('#btnLoad').addEventListener('click', () => {
 	if (document.querySelector('#dinoName') !== null) {
@@ -11,7 +12,7 @@ document.querySelector('#btnLoad').addEventListener('click', () => {
 });
 
 async function getDinoName() {
-	const response = await fetch('/dinoname');
+	const response = await fetch(baseURL + '/dinoname');
 	const data = await response.json();
 	let dinoName = data[0].join(' ');
 	console.log(dinoName);
@@ -25,7 +26,7 @@ async function getDinoName() {
 }
 
 async function getDinoImage() {
-	const response = await fetch('/dinoimage');
+	const response = await fetch(baseURL + '/dinoimage');
 	const data = await response.json();
   let dinoImage = data.items[Math.floor(Math.random() * data.items.length)];
   let dinoImageUrl = dinoImage.thumbnailImageUrl;
